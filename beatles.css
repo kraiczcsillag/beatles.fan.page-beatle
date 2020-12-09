@@ -1,0 +1,33 @@
+body {
+    background-image: url(bg3.jpg);
+    background-repeat: repeat-y;
+    background-position: right;
+    margin-right: 180px;
+    margin-left: 180px
+
+}
+h1 {
+    border-style: solid ;
+    margin: 0px;
+    font-size: 75px;
+    text-align: center;
+    font-weight: 900;
+}
+.bevezetés {
+    margin: 5px;
+    text-align: center;
+    font-size: 25px;
+}
+table {
+    margin: auto;
+}
+td {
+    text-align: center;
+}
+th {
+    text-align: center;
+    font-size: 35px;
+}
+.útmutatás {
+    text-align: center;
+}
