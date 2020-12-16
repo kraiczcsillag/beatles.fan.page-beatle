@@ -1,9 +1,10 @@
 body {
-    background-image: url(kepek/bg3.jpg);
+    background-image: url(bg3.jpg);
     background-repeat: repeat-y;
-    background-position: right
+    background-position: right;
     margin-right: 180px;
-    margin-left: 145px
+    margin-left: 180px
+
 }
 h1 {
     border-style: solid ;
