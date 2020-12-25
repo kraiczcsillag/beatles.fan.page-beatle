@@ -1,9 +1,16 @@
 body {
-    /* background-image: url(Beatles-Logo.png);
-    opacity: 0.3;
-    background-size: 1900px; */
+    background-color: gray;
+    padding: 10px;
 }
-
-img { 
-    float: right;
+.leftcolumn {
+    float: left;
+    width: 70%;
+}
+.rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+}
+* {
+    box-sizing: border-box;
 }
