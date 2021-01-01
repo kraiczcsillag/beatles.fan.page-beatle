@@ -1,10 +1,21 @@
 body {
-    background-color: lightgrey;
-    padding: 10px;
+    background: url(bg3.jpg) left repeat-y, url(bg3.jpg) right repeat-y;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+h1 {
+    border-style: solid ;
+    margin: 0px;
+    font-size: 75px;
+    text-align: center;
+    font-weight: 900;
 }
 .leftcolumn {
     float: left;
     width: 70%;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .rightcolumn {
     float: left;
